@@ -16,7 +16,7 @@ public class TestProjEx {
      */
     public static void main(String[] args) {
         System.out.println("hi");
-        //dee snuts
+        //hi
     }
     
 }

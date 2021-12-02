@@ -10,5 +10,6 @@ package testprojex;
  * @author 373001843
  */
 public class NewClass {
-    //dee snuts
+    //sean is cool
+    
 }
